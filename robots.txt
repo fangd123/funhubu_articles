@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://funhubu.fangd123.com/sitemap.xml
